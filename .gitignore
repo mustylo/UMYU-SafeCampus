@@ -2,3 +2,9 @@
 .venv/
 __pycache__/
 *.pyc
+
+# Local databases and instance data
+instance/
+*.db
+*.sqlite
+*.sqlite3
